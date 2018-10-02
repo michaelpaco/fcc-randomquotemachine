@@ -1,9 +1,9 @@
-#Random Quote Machine!
+Random Quote Machine!
 
 
-###This is a freeCodeCamp project where the objective was to build a random quote machine, as the name sugests :) also, this is my first react-only app!
+This is a freeCodeCamp project where the objective was to build a random quote machine, as the name sugests :) also, this is my first react-only app!
 
-###You can clone this repository and run 
+You can clone this repository and run 
 
 ```npm start```
 
